@@ -1,0 +1,97 @@
+{
+  "Metadata": {
+    "source_file": "Bodea Brochure.json",
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks"
+  },
+  "Extracted Sections": [
+    {
+      "level": "H3",
+      "text": "$175 Annually",
+      "page": 3,
+      "importance_rank": 1,
+      "similarity": 0.06868872791528702,
+      "explanation": "Cosine similarity to persona/job: 0.069"
+    },
+    {
+      "level": "H3",
+      "text": "$200 Annually",
+      "page": 4,
+      "importance_rank": 2,
+      "similarity": 0.06479978561401367,
+      "explanation": "Cosine similarity to persona/job: 0.065"
+    },
+    {
+      "level": "H3",
+      "text": "$275,000 of",
+      "page": 3,
+      "importance_rank": 3,
+      "similarity": 0.05719704180955887,
+      "explanation": "Cosine similarity to persona/job: 0.057"
+    },
+    {
+      "level": "H3",
+      "text": "10 years",
+      "page": 3,
+      "importance_rank": 4,
+      "similarity": 0.04722322151064873,
+      "explanation": "Cosine similarity to persona/job: 0.047"
+    },
+    {
+      "level": "H3",
+      "text": "$315,000 of",
+      "page": 4,
+      "importance_rank": 5,
+      "similarity": 0.04672308638691902,
+      "explanation": "Cosine similarity to persona/job: 0.047"
+    },
+    {
+      "level": "H3",
+      "text": "$224 Annually",
+      "page": 5,
+      "importance_rank": 6,
+      "similarity": 0.040036823600530624,
+      "explanation": "Cosine similarity to persona/job: 0.040"
+    },
+    {
+      "level": "H3",
+      "text": "$353,000 of",
+      "page": 5,
+      "importance_rank": 7,
+      "similarity": 0.03323791176080704,
+      "explanation": "Cosine similarity to persona/job: 0.033"
+    },
+    {
+      "level": "H3",
+      "text": "Plus Plan A",
+      "page": 4,
+      "importance_rank": 8,
+      "similarity": 0.03275611624121666,
+      "explanation": "Cosine similarity to persona/job: 0.033"
+    },
+    {
+      "level": "H3",
+      "text": "Platinum A",
+      "page": 5,
+      "importance_rank": 9,
+      "similarity": 0.03060801327228546,
+      "explanation": "Cosine similarity to persona/job: 0.031"
+    },
+    {
+      "level": "H1",
+      "text": "“Knowing my family will be",
+      "page": 2,
+      "importance_rank": 10,
+      "similarity": 0.011897820979356766,
+      "explanation": "Cosine similarity to persona/job: 0.012"
+    },
+    {
+      "level": "H1",
+      "text": "Your Life, Your Legacy",
+      "page": 1,
+      "importance_rank": 11,
+      "similarity": -0.02012617141008377,
+      "explanation": "Cosine similarity to persona/job: -0.020"
+    }
+  ]
+}

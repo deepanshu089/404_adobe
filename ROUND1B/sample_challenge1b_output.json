@@ -1,0 +1,17 @@
+{
+  "Metadata": {
+    "source_file": "sample.json",
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks"
+  },
+  "Extracted Sections": [
+    {
+      "level": "H1",
+      "text": "Sample PDF for Adobe Hackathon Demo",
+      "page": 1,
+      "importance_rank": 1,
+      "similarity": 0.10572151839733124,
+      "explanation": "Cosine similarity to persona/job: 0.106"
+    }
+  ]
+}
