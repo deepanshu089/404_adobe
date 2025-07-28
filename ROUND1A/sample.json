@@ -1,0 +1,40 @@
+{
+  "title": "untitled",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Sample PDF for Adobe Hackathon Demo",
+      "page": 1,
+      "lang": "LATIN",
+      "explanation": [
+        "Cluster: H1",
+        "Extra spacing"
+      ]
+    }
+  ],
+  "runtime_sec": 0.01,
+  "mem_peak_mb": 140.0,
+  "explainability_and_compliance": {
+    "heuristics": [
+      "Font size clustering (KMeans)",
+      "Boldness and left margin for heading detection",
+      "Spacing and TOC cross-validation",
+      "Multilingual/script-aware heuristics",
+      "Numbered/section heading patterns",
+      "Batch processing, offline, CPU-only",
+      "Strict output directory: /output",
+      "Model size <200MB, runtime <10s, RAM <200MB"
+    ],
+    "compliance": {
+      "output_dir": "/output",
+      "cpu_only": true,
+      "offline": true,
+      "model_size_mb": 80,
+      "runtime_sec": 0.01,
+      "mem_peak_mb": 140.0,
+      "docker_platform": "linux/amd64",
+      "no_gpu": true
+    },
+    "signals_summary": "1 headings detected using >2 heuristic signals each"
+  }
+}
